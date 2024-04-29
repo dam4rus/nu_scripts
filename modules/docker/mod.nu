@@ -519,4 +519,5 @@ export alias dr = container-create
 
 export use registry.nu *
 export use buildah.nu *
+export use compose.nu *
 
